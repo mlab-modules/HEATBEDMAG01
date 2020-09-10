@@ -2129,6 +2129,11 @@
     )
   )
 
+  (gr_line (start 388.038 -244.494) (end 388.038 -264.494) (layer "Eco2.User") (width 0.1) (tstamp 34f25372-d068-4c87-8c81-b6cf0c1abffe))
+  (gr_line (start 392.538 -264.494) (end 392.538 -244.494) (layer "Eco2.User") (width 0.1) (tstamp 503890fa-b56d-44c8-bf92-860e6df624c4))
+  (gr_arc (start 2.25 0) (end 0 0) (angle 180) (layer "Eco2.User") (width 0.1) (tstamp 6b691289-930b-4b10-94db-e593388b49de))
+  (gr_arc (start 390.288 -244.494) (end 392.538 -244.494) (angle 180) (layer "Eco2.User") (width 0.1) (tstamp afa7fcac-0125-4932-8a08-52ff49093dcb))
+  (gr_arc (start 390.288 -264.494) (end 388.038 -264.494) (angle 180) (layer "Eco2.User") (width 0.1) (tstamp db5b90c2-6ae4-4c9b-8ac6-c37049d7c8be))
   (gr_arc (start 654.650442 -296.869672) (end 659.650442 -296.869672) (angle -90) (layer "Edge.Cuts") (width 0.2) (tstamp 07f8f558-308f-470a-8d7d-a7146feeabdc))
   (gr_arc (start 384.650441 -296.869672) (end 384.650441 -301.869673) (angle -90) (layer "Edge.Cuts") (width 0.2) (tstamp 23cf97b9-75cf-4a06-b4f0-270af2e9a268))
   (gr_line (start 399.650442 -326.169672) (end 639.650444 -326.169672) (layer "Edge.Cuts") (width 0.2) (tstamp 29b7ce06-e545-4e77-9da7-d5c7490ed797))
@@ -8535,5 +8540,13 @@
         (xy 459.530054 -221.684)
       )
     )
+  )
+  (group "" (id 1fe0c60e-b6ba-4066-abdb-d2095456c3b4)
+      (members
+          34f25372-d068-4c87-8c81-b6cf0c1abffe
+          503890fa-b56d-44c8-bf92-860e6df624c4
+          afa7fcac-0125-4932-8a08-52ff49093dcb
+          db5b90c2-6ae4-4c9b-8ac6-c37049d7c8be
+ )
   )
 )
