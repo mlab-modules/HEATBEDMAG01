@@ -3391,6 +3391,9 @@
     (path "/1f130984-836f-40a1-8828-232923e50630"
       (reference "U8") (unit 1) (value "MCP601-xOT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/7013da23-b0e3-44ce-8a94-1741d163d1fc"
+      (reference "#SYM?") (unit 1) (value "SYM_Magnet_Large") (footprint "")
+    )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/06e54839-cddb-41cd-825a-86c0d311d8f9"
       (reference "H1") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
     )
@@ -3417,6 +3420,12 @@
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/21f04b22-a52e-4c84-a2ac-8e87b26eddf0"
       (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/61775bae-2b24-41b3-8a37-a6a3bdb596bd"
+      (reference "H?") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b30e262c-8441-4806-bb67-89d5a40febf5"
+      (reference "H?") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
     )
   )
 )
