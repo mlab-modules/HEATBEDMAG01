@@ -3391,41 +3391,134 @@
     (path "/1f130984-836f-40a1-8828-232923e50630"
       (reference "U8") (unit 1) (value "MCP601-xOT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
-    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/7013da23-b0e3-44ce-8a94-1741d163d1fc"
-      (reference "#SYM?") (unit 1) (value "SYM_Magnet_Large") (footprint "")
-    )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/06e54839-cddb-41cd-825a-86c0d311d8f9"
-      (reference "H1") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H1") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/cc8f7e89-91e5-49e5-91e9-ed6b7d697a6b"
-      (reference "H2") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H2") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/6f46c3a8-8786-4c26-b810-75c3f737785b"
-      (reference "H3") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H3") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/2de69166-a49b-4949-97e0-abc8f27e9402"
-      (reference "H4") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H4") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/977932ca-c52f-4ef3-aae7-b024ba9df8c1"
-      (reference "H5") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H5") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/13b38a15-631d-4c2b-ab56-2099a474deb9"
-      (reference "H6") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H6") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/28cee010-be4a-445d-83a7-c00d43023fd6"
-      (reference "H7") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H7") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/942bf9f7-b034-4c41-97cf-978cd2975e9d"
-      (reference "H8") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H8") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/21f04b22-a52e-4c84-a2ac-8e87b26eddf0"
-      (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4_DIN965")
+      (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/61775bae-2b24-41b3-8a37-a6a3bdb596bd"
-      (reference "H?") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+      (reference "H10") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b30e262c-8441-4806-bb67-89d5a40febf5"
-      (reference "H?") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+      (reference "H11") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/7013da23-b0e3-44ce-8a94-1741d163d1fc"
+      (reference "M1") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/c314a44d-a7ed-4d64-ac6f-2bab252349f4"
+      (reference "M2") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/84c6ecac-6b5d-4ae6-a41e-4154669c9739"
+      (reference "M3") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/380b916b-95d7-49f0-b594-b6454c77a74a"
+      (reference "M4") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/1921395d-67ec-4cba-9c9d-a297c70ee506"
+      (reference "M5") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/2e456103-a3dd-40c9-bdbd-2e73fa465e60"
+      (reference "M6") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/4816d51a-b8e7-4754-bee7-fd5822a4e193"
+      (reference "M7") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/bb600e01-a08f-4b19-bdc7-1620f7698b51"
+      (reference "M8") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/8ad0a8ab-4e72-4170-b458-b64bbd6c9cde"
+      (reference "M9") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/5c12bafa-8fbf-4170-bf65-d4f00a2e6bd3"
+      (reference "M10") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/f40092b7-6524-4bc7-83cc-deb8b68ca471"
+      (reference "M11") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/e22be65a-ed80-4491-a028-e6dbee797c65"
+      (reference "M12") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b216e3c2-8f45-4abf-9958-25a4f53196de"
+      (reference "M13") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/878ea17b-677d-4ff7-86e0-4519d9562e54"
+      (reference "M14") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/a4b95976-5085-4def-87e6-a472ae451125"
+      (reference "M15") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/6cd4ccab-3e4f-4e43-9da7-6fc8ba31619a"
+      (reference "M16") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/c39793d3-8c6c-4ae0-ab9d-30a394a48023"
+      (reference "M17") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/20ea3688-6a4f-49e9-9d5e-4baae65c1fe2"
+      (reference "M18") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/168e3e58-49be-4e61-8d08-5ed9e28854e1"
+      (reference "M19") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/15130ce2-2b71-44c4-89c0-68b3d0b974b8"
+      (reference "M20") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/d3693f87-60e1-4310-9a5f-bf98992c1ac6"
+      (reference "M21") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b7558aaa-e7fc-4562-b90d-276e91671a8b"
+      (reference "M22") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/45e6cbb1-236a-43da-a2b9-b15db3a4cd83"
+      (reference "M23") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/995e8f6a-74fa-41b3-888e-3a4b01daf7c4"
+      (reference "M24") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/00143a07-6b45-47ed-9ca5-e6c22617d604"
+      (reference "M26") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b5941bf1-ea00-47f0-8c06-93f9a835260a"
+      (reference "M27") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/63517ae9-3a30-45b5-a2c8-b465a7fe6a5b"
+      (reference "M28") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/f5368cd3-bce8-434f-820e-a24b1c081606"
+      (reference "M29") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/37cb9495-6271-493d-9afb-346dee02af34"
+      (reference "M31") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/dda36db3-7dc9-4a0a-9706-63a29f4b403c"
+      (reference "M32") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/1de37fa2-ce51-4807-a67d-385b574c688c"
+      (reference "M33") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
+    )
+    (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/ef978373-46a1-456b-8e40-3ff17078bdbc"
+      (reference "M34") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
     )
   )
 )
