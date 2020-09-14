@@ -115,8 +115,8 @@
       "track_widths": [
         0.3,
         0.5,
+        0.7,
         0.755,
-        0.766,
         1.3165,
         1.8202,
         3.0,
@@ -372,7 +372,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.9,
+        "track_width": 0.7,
         "via_diameter": 1.2,
         "via_drill": 0.8,
         "wire_width": 6.0
@@ -420,7 +420,7 @@
   },
   "sheets": [
     [
-      "60e0c0ff-1f4b-4c39-8e16-668a2a1da11f",
+      "11fab124-aa1b-42c3-a3b8-9db344fac152",
       ""
     ],
     [
