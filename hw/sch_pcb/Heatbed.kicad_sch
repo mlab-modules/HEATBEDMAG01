@@ -2909,31 +2909,31 @@
       (reference "U6") (unit 1) (value "MCP601-xOT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/06e54839-cddb-41cd-825a-86c0d311d8f9"
-      (reference "H1") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H1") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/cc8f7e89-91e5-49e5-91e9-ed6b7d697a6b"
-      (reference "H2") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H2") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/6f46c3a8-8786-4c26-b810-75c3f737785b"
-      (reference "H3") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H3") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/2de69166-a49b-4949-97e0-abc8f27e9402"
-      (reference "H4") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H4") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/977932ca-c52f-4ef3-aae7-b024ba9df8c1"
-      (reference "H5") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H5") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/13b38a15-631d-4c2b-ab56-2099a474deb9"
-      (reference "H6") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H6") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/28cee010-be4a-445d-83a7-c00d43023fd6"
-      (reference "H7") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H7") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/942bf9f7-b034-4c41-97cf-978cd2975e9d"
-      (reference "H8") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H8") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/21f04b22-a52e-4c84-a2ac-8e87b26eddf0"
-      (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/61775bae-2b24-41b3-8a37-a6a3bdb596bd"
       (reference "H10") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
