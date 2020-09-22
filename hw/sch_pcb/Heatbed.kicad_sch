@@ -2936,10 +2936,10 @@
       (reference "H9") (unit 1) (value "M4 Mounting Hole") (footprint "local_lib:MountingHole_4.3mm_M4")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/61775bae-2b24-41b3-8a37-a6a3bdb596bd"
-      (reference "H10") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+      (reference "H10") (unit 1) (value "Print_plate_arangement_screw") (footprint "local_lib:MountingHole_3.2mm_M3_ISO14580")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/b30e262c-8441-4806-bb67-89d5a40febf5"
-      (reference "H11") (unit 1) (value "Print_plate_arangement_screw") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580")
+      (reference "H11") (unit 1) (value "Print_plate_arangement_screw") (footprint "local_lib:MountingHole_3.2mm_M3_ISO14580")
     )
     (path "/f5ee2ca9-d904-452e-bb01-150778aab79a/7013da23-b0e3-44ce-8a94-1741d163d1fc"
       (reference "M1") (unit 1) (value "KV-20-04-03-N") (footprint "local_lib:KV-20-04-03-N")
