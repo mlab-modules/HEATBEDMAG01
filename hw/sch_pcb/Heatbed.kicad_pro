@@ -105,8 +105,8 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annulus": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_clearance": 0.19999999999999998,
-        "solder_mask_min_width": 0.09999999999999999,
+        "solder_mask_clearance": 0.0,
+        "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": -0.0
       },
@@ -419,7 +419,7 @@
   },
   "sheets": [
     [
-      "c3608ee2-ab75-442d-8d68-dafac8b57575",
+      "56caa6d5-66cc-4d23-bf51-5135fefaf855",
       ""
     ],
     [

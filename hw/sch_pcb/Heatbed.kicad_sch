@@ -7,10 +7,7 @@
   (title_block
     (title "Magnetic  plate HeatBed")
     (date "2020-07-08")
-    (rev "0.1")
-    (company "Universal Scientific Technologies s.r.o")
-    (comment 1 "Kaklik")
-    (comment 2 "ust.cz")
+    (rev "0.3")
   )
 
   (lib_symbols
