@@ -1,0 +1,15 @@
+description: null
+github_branch: master
+github_branches:
+- master
+github_repo: Heatbed_magnetic
+github_url: https://github.com/mlab-modules/Heatbed_magnetic
+homepage: false
+image: hw/sch_pcb/Heatbed.png
+images:
+- hw/sch_pcb/Heatbed.png
+- doc/img/steel-sheet.svg
+issues: 0
+mark: 50
+tags: []
+title: Heatbed_magnetic
