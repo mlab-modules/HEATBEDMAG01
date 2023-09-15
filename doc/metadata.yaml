@@ -2,8 +2,8 @@ description: null
 github_branch: master
 github_branches:
 - master
-github_repo: Heatbed_magnetic
-github_url: https://github.com/mlab-modules/Heatbed_magnetic
+github_repo: HEATBEDMAG01
+github_url: https://github.com/mlab-modules/HEATBEDMAG01
 homepage: false
 image: hw/sch_pcb/Heatbed.png
 images:
@@ -20,5 +20,5 @@ tags:
 - kicad-project
 - mlab-kicad
 - pcb
-title: Heatbed_magnetic
-updated: '2023-09-15T09:42:52.913094+00:00'
+title: HEATBEDMAG01
+updated: '2023-09-15T09:54:16.280927+00:00'
