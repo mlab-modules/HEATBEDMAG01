@@ -5,7 +5,7 @@ github_branches:
 github_repo: HEATBEDMAG01
 github_url: https://github.com/mlab-modules/HEATBEDMAG01
 homepage: false
-image: hw/sch_pcb/Heatbed.png
+image_title: hw/sch_pcb/Heatbed.png
 images:
 - hw/sch_pcb/Heatbed.png
 - doc/img/steel-sheet.svg
