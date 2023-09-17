@@ -2,6 +2,7 @@ description: null
 github_branch: master
 github_branches:
 - master
+github_description: null
 github_repo: HEATBEDMAG01
 github_url: https://github.com/mlab-modules/HEATBEDMAG01
 homepage: false
@@ -21,4 +22,4 @@ tags:
 - mlab-kicad
 - pcb
 title: HEATBEDMAG01
-updated: '2023-09-16T16:03:56.410194+00:00'
+updated: '2023-09-17T10:55:02.228653+00:00'
